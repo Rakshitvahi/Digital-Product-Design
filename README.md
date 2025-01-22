@@ -1,5 +1,7 @@
 # MentorWise: Digital Product Development and Management Project
 
+![MentorWise Banner](./assests/Banner.png)
+
 **MentorWise** is a digital product developed as part of the **Digital Product Design and Development Course (Jan 2023 – Apr 2023)**. This project aims to bridge the gap between students and professionals by providing a mentorship platform. The repository includes comprehensive documents and designs that showcase the complete lifecycle of the project, from market research to product roadmap planning.
 
 ## Repository Contents

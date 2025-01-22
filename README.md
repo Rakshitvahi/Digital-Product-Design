@@ -12,9 +12,7 @@ A detailed document outlining user requirements and key market insights.
 ### 📄 [Product Requirement Document (PRD)](./PRD-MentorWise.pdf)
 Defines product features, goals, and technical specifications.
 
-### 📄 UI/UX Flows and Wireframes
-## [Mentee](./User(Mentee)_UI_UX_Flow.pdf)
-## [Mentor](./User(Mentor)_UI_UX_Flow.pdf)
+### 📄 UI/UX Flows and Wireframes [Mentee](./User(Mentee)_UI_UX_Flow.pdf) | [Mentor](./User(Mentor)_UI_UX_Flow.pdf)
 Designed using **Balsamiq**, these workflows and wireframes ensure alignment with user needs and business objectives.
 
 ### 📄 [Product Roadmap](./Roadmap-MentorWise.pdf)
